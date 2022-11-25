@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/MangoTree/static/css/main.d08aca9c.css",
+    "main.js": "/MangoTree/static/js/main.bdbf2840.js",
+    "static/media/landingHome.png": "/MangoTree/static/media/landingHome.76bb87b27cbfd792487f.png",
+    "index.html": "/MangoTree/index.html",
+    "main.d08aca9c.css.map": "/MangoTree/static/css/main.d08aca9c.css.map",
+    "main.bdbf2840.js.map": "/MangoTree/static/js/main.bdbf2840.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d08aca9c.css",
+    "static/js/main.bdbf2840.js"
+  ]
+}
